@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/yareko/Ready2019ThuTahoma3/_apis/build/status/cyberyarek.ContosoAir?branchName=master)](https://dev.azure.com/yareko/Ready2019ThuTahoma3/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
